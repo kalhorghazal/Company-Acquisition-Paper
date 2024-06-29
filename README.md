@@ -16,12 +16,12 @@ Kalhor, G. & Bahrak, B. (2024). Understanding Trends, Patterns, and Dynamics in 
 
 Our analysis scripts are classified into the following folders:
 
-* **Structural Analysis**: This folder
+* **Structural Analysis**: This folder contains the Python scripts we used to calculate different structural features, such as density, transitivity, and average clustering coefficient for the networks.
 
-* **Assortativity Analysis**: This folder
+* **Assortativity Analysis**: This folder contains the Python scripts we used to calculate assortativity coefficients for different nodal attributes, such as country, city, and category on the networks.
 
-* **ERGM Analysis**: This folder
+* **ERGM Analysis**:  This folder contains the R scripts we used to fit the ERGM models for the networks, calculating their estimates for different nodal attributes.
 
-* **Temporal Analysis**: This folder
+* **Temporal Analysis**: This folder contains the Python scripts we used to investigate the evolution of the acquisition network over time by calculating different structural features at different time slots.
 
-* **Centrality Analysis**: This folder
+* **Centrality Analysis**: This folder contains the Python script we employed to calculate centrality measures on the cross-city acquisition network.
