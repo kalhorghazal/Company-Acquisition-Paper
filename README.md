@@ -15,3 +15,13 @@ Kalhor, G. & Bahrak, B. (2024). Understanding Trends, Patterns, and Dynamics in 
 # Directories
 
 Our analysis scripts are classified into the following folders:
+
+* **Structural Analysis**: This folder
+
+* **Assortativity Analysis**: This folder
+
+* **ERGM Analysis**: This folder
+
+* **Temporal Analysis**: This folder
+
+* **Centrality Analysis**: This folder
