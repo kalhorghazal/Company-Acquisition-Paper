@@ -1,8 +1,8 @@
-# Startup Acquisition Paper
+# Company Acquisition Paper
 
 This repository contains the analysis code for the paper:
 
-**Title:** "Understanding Trends, Patterns, and Dynamics in Global Startup Acquisitions: A Network Perspective"
+**Title:** "Understanding Trends, Patterns, and Dynamics in Global Company Acquisitions: A Network Perspective"
 
 **Authors:** Ghazal Kalhor and Behnam Bahrak
 
