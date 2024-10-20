@@ -10,7 +10,7 @@ This repository contains the analysis code for the paper:
 
 If you use our analysis code in your work, please cite our paper:
 
-Kalhor, G. & Bahrak, B. (2024). Understanding trends, patterns, and dynamics in global company acquisitions: a network perspective. Under revision at *EPJ Data Science*.
+Kalhor, G. & Bahrak, B. (2024). Understanding trends, patterns, and dynamics in global company acquisitions: a network perspective. Accepted for publication in *EPJ Data Science*.
 
 # Directories
 
