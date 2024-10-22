@@ -6,7 +6,7 @@ This repository contains the analysis code for the paper:
 
 **Authors:** Ghazal Kalhor and Behnam Bahrak
 
-**DOI:** https://doi.org/10.48550/arXiv.2402.03910
+**DOI:** https://doi.org/10.1140/epjds/s13688-024-00503-z
 
 If you use our analysis code in your work, please cite our paper:
 
